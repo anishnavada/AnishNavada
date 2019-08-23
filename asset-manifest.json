@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AnishNavada/static/css/main.5d135dba.chunk.css",
-    "main.js": "/AnishNavada/static/js/main.64c29710.chunk.js",
-    "main.js.map": "/AnishNavada/static/js/main.64c29710.chunk.js.map",
+    "main.js": "/AnishNavada/static/js/main.a2bc5fc0.chunk.js",
+    "main.js.map": "/AnishNavada/static/js/main.a2bc5fc0.chunk.js.map",
     "runtime~main.js": "/AnishNavada/static/js/runtime~main.7ab74df3.js",
     "runtime~main.js.map": "/AnishNavada/static/js/runtime~main.7ab74df3.js.map",
     "static/css/2.5d45f07d.chunk.css": "/AnishNavada/static/css/2.5d45f07d.chunk.css",
     "static/js/2.cf9474bd.chunk.js": "/AnishNavada/static/js/2.cf9474bd.chunk.js",
     "static/js/2.cf9474bd.chunk.js.map": "/AnishNavada/static/js/2.cf9474bd.chunk.js.map",
     "index.html": "/AnishNavada/index.html",
-    "precache-manifest.5f57a7d0040364eaaca65e3512e6ef0e.js": "/AnishNavada/precache-manifest.5f57a7d0040364eaaca65e3512e6ef0e.js",
+    "precache-manifest.5333d5644307650ee1bab55aa9566c5f.js": "/AnishNavada/precache-manifest.5333d5644307650ee1bab55aa9566c5f.js",
     "service-worker.js": "/AnishNavada/service-worker.js",
     "static/css/2.5d45f07d.chunk.css.map": "/AnishNavada/static/css/2.5d45f07d.chunk.css.map",
     "static/css/main.5d135dba.chunk.css.map": "/AnishNavada/static/css/main.5d135dba.chunk.css.map"
