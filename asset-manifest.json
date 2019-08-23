@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/AnishNavada/static/css/main.2cce8147.chunk.css",
-    "main.js": "/AnishNavada/static/js/main.c2a84b99.chunk.js",
-    "main.js.map": "/AnishNavada/static/js/main.c2a84b99.chunk.js.map",
+    "main.css": "/AnishNavada/static/css/main.5d135dba.chunk.css",
+    "main.js": "/AnishNavada/static/js/main.afd90a82.chunk.js",
+    "main.js.map": "/AnishNavada/static/js/main.afd90a82.chunk.js.map",
     "runtime~main.js": "/AnishNavada/static/js/runtime~main.7ab74df3.js",
     "runtime~main.js.map": "/AnishNavada/static/js/runtime~main.7ab74df3.js.map",
-    "static/js/2.9c8d6355.chunk.js": "/AnishNavada/static/js/2.9c8d6355.chunk.js",
-    "static/js/2.9c8d6355.chunk.js.map": "/AnishNavada/static/js/2.9c8d6355.chunk.js.map",
+    "static/css/2.5d45f07d.chunk.css": "/AnishNavada/static/css/2.5d45f07d.chunk.css",
+    "static/js/2.6fa3c40f.chunk.js": "/AnishNavada/static/js/2.6fa3c40f.chunk.js",
+    "static/js/2.6fa3c40f.chunk.js.map": "/AnishNavada/static/js/2.6fa3c40f.chunk.js.map",
     "index.html": "/AnishNavada/index.html",
-    "precache-manifest.24ab34db9efce55ab0e60395da98d266.js": "/AnishNavada/precache-manifest.24ab34db9efce55ab0e60395da98d266.js",
+    "precache-manifest.5091a4842a0348709208d5d3fcfb6838.js": "/AnishNavada/precache-manifest.5091a4842a0348709208d5d3fcfb6838.js",
     "service-worker.js": "/AnishNavada/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/AnishNavada/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/AnishNavada/static/media/logo.5d5d9eef.svg"
+    "static/css/2.5d45f07d.chunk.css.map": "/AnishNavada/static/css/2.5d45f07d.chunk.css.map",
+    "static/css/main.5d135dba.chunk.css.map": "/AnishNavada/static/css/main.5d135dba.chunk.css.map"
   }
 }
