@@ -1,0 +1,65 @@
+.player-search{
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.search-btn{
+	vertical-align:top !important;
+	margin-top: 20px;
+}
+
+.search-player-card{
+	width: 18rem;
+	margin: 0 auto;
+}
+
+.compare-player-card{
+	width: 18rem;
+	margin: 50px auto;
+}
+
+#search-loader{
+	margin-left: 15px;
+	margin-top: 20px;
+}
+
+#search-card-image{
+	max-height: 208px;
+	max-width: 286px;
+}
+
+#search-alert{
+	display:inline-block;
+	margin-left: 25px;
+	margin-top: 15px;
+}
+
+.compare-div{
+	display: flex;
+	overflow-x: auto;
+}
+
+.numberIcon{
+	 font-family: 'Aclonica';
+	 font-size: 22px;
+}
+
+.jumbotron{
+	position: absolute;
+    top: 40%;
+    left: 50%;
+    width: 50%;
+    margin: -15% 0 0 -25%;
+
+}
+
+ .bg-1 { 
+    background-color: #1abc9c; /* Green */
+    color: #ffffff;
+  }
+
+    .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }

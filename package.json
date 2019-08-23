@@ -2,8 +2,9 @@
   "name": "my-react-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://anishnavada.github.io/AnishNavada",  
+  "homepage": "http://anishnavada.github.io/AnishNavada",
   "dependencies": {
+    "jquery": "^3.4.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
