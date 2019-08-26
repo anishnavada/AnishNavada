@@ -1,18 +1,26 @@
 import React from 'react';
+import './Styles.css';
+import Navbar from './Components/Navbar'
+import Experiences from './Components/Experiences'
+import Home from './Components/Home'
+import Projects from './Components/Projects'
+import Education from './Components/Education'
 import 'bootstrap';
 import { Switch, Route, BrowserRouter as Router } from 'react-router-dom'
-import PlayerCompareApp from "./PlayerCompareComponents/PlayerCompareApp"
-import AboutMeApp from "./AboutMeComponents/AboutMeApp"
 
 class App extends React.Component{
 	render(){
 		return (
 			<Router>
-				<Switch>
-						<Route path="/PlayerCompare" component={PlayerCompareApp} />
-						<Route path="/AnishNavada" component={AboutMeApp} />
-						<Route path="/" component = {AboutMeApp} />
-				</Switch>
+				<div>
+					<Navbar />
+					<Switch>
+						<Route path="/Experiences" component={Experiences} /> 
+						<Route path="/Projects" component={Projects} /> 
+						<Route path="/Education" component={Education} /> 
+						<Route path="/" component={Home} /> 
+					</Switch>
+				</div>
 			</Router>
 		)
 	}
