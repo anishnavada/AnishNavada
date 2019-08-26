@@ -1,0 +1,14 @@
+.navbar{
+	background-color: #3E6DB1;
+	
+}
+
+.navbar-center{
+	position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+.nav-item{
+	margin-left: 40px;
+}
