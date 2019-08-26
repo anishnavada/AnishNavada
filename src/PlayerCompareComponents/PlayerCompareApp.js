@@ -8,7 +8,6 @@ import ErrorAlert from "./ErrorAlert.js"
 import OverflowAlert from "./OverflowAlert.js"
 import { Switch, Route, BrowserRouter as Router } from 'react-router-dom'
 import $ from "jquery"
-import 'bootstrap';
 import AboutMeApp from '../AboutMeComponents/AboutMeApp';
 
 class PlayerCompareApp extends React.Component{

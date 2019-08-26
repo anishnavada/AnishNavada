@@ -1,5 +1,4 @@
 import React from 'react';
-import 'bootstrap';
 import { Switch, Route, BrowserRouter as Router } from 'react-router-dom'
 import PlayerCompareApp from "./PlayerCompareComponents/PlayerCompareApp"
 import AboutMeApp from "./AboutMeComponents/AboutMeApp"
