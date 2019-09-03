@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/AnishNavada/static/css/main.979f6ce5.chunk.css",
-    "main.js": "/AnishNavada/static/js/main.802f896c.chunk.js",
-    "main.js.map": "/AnishNavada/static/js/main.802f896c.chunk.js.map",
+    "main.css": "/AnishNavada/static/css/main.aed99735.chunk.css",
+    "main.js": "/AnishNavada/static/js/main.87cd3eb4.chunk.js",
+    "main.js.map": "/AnishNavada/static/js/main.87cd3eb4.chunk.js.map",
     "runtime~main.js": "/AnishNavada/static/js/runtime~main.7ab74df3.js",
     "runtime~main.js.map": "/AnishNavada/static/js/runtime~main.7ab74df3.js.map",
-    "static/css/2.5d45f07d.chunk.css": "/AnishNavada/static/css/2.5d45f07d.chunk.css",
-    "static/js/2.b240fe9a.chunk.js": "/AnishNavada/static/js/2.b240fe9a.chunk.js",
-    "static/js/2.b240fe9a.chunk.js.map": "/AnishNavada/static/js/2.b240fe9a.chunk.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/AnishNavada/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.f6c94669.chunk.js": "/AnishNavada/static/js/2.f6c94669.chunk.js",
+    "static/js/2.f6c94669.chunk.js.map": "/AnishNavada/static/js/2.f6c94669.chunk.js.map",
     "index.html": "/AnishNavada/index.html",
-    "precache-manifest.6114694397648e12e49d7f6809de5f1d.js": "/AnishNavada/precache-manifest.6114694397648e12e49d7f6809de5f1d.js",
+    "precache-manifest.403fd1782b162935bc8238639cba1f56.js": "/AnishNavada/precache-manifest.403fd1782b162935bc8238639cba1f56.js",
     "service-worker.js": "/AnishNavada/service-worker.js",
-    "static/css/2.5d45f07d.chunk.css.map": "/AnishNavada/static/css/2.5d45f07d.chunk.css.map",
-    "static/css/main.979f6ce5.chunk.css.map": "/AnishNavada/static/css/main.979f6ce5.chunk.css.map"
+    "static/css/2.22a7d4ef.chunk.css.map": "/AnishNavada/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.aed99735.chunk.css.map": "/AnishNavada/static/css/main.aed99735.chunk.css.map",
+    "static/media/AnishNavada.jpg": "/AnishNavada/static/media/AnishNavada.454a3662.jpg",
+    "static/media/style.css": "/AnishNavada/static/media/diamond.b28ba267.png",
+    "static/media/player-compare.png": "/AnishNavada/static/media/player-compare.111eb9e6.png"
   }
 }
