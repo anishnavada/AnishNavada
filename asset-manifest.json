@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/AnishNavada/static/css/main.425909c4.chunk.css",
-    "main.js": "/AnishNavada/static/js/main.fb826409.chunk.js",
-    "main.js.map": "/AnishNavada/static/js/main.fb826409.chunk.js.map",
+    "main.css": "/AnishNavada/static/css/main.1f6daf19.chunk.css",
+    "main.js": "/AnishNavada/static/js/main.eef06cda.chunk.js",
+    "main.js.map": "/AnishNavada/static/js/main.eef06cda.chunk.js.map",
     "runtime~main.js": "/AnishNavada/static/js/runtime~main.7ab74df3.js",
     "runtime~main.js.map": "/AnishNavada/static/js/runtime~main.7ab74df3.js.map",
     "static/css/2.22a7d4ef.chunk.css": "/AnishNavada/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.f6c94669.chunk.js": "/AnishNavada/static/js/2.f6c94669.chunk.js",
-    "static/js/2.f6c94669.chunk.js.map": "/AnishNavada/static/js/2.f6c94669.chunk.js.map",
+    "static/js/2.6a78d592.chunk.js": "/AnishNavada/static/js/2.6a78d592.chunk.js",
+    "static/js/2.6a78d592.chunk.js.map": "/AnishNavada/static/js/2.6a78d592.chunk.js.map",
     "index.html": "/AnishNavada/index.html",
-    "precache-manifest.6cb481e15c4172ec5f3724749900716a.js": "/AnishNavada/precache-manifest.6cb481e15c4172ec5f3724749900716a.js",
+    "precache-manifest.e79c7a0d5e74c3770874efd0c33d7f91.js": "/AnishNavada/precache-manifest.e79c7a0d5e74c3770874efd0c33d7f91.js",
     "service-worker.js": "/AnishNavada/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/AnishNavada/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.425909c4.chunk.css.map": "/AnishNavada/static/css/main.425909c4.chunk.css.map",
+    "static/css/main.1f6daf19.chunk.css.map": "/AnishNavada/static/css/main.1f6daf19.chunk.css.map",
     "static/media/AnishNavada.jpg": "/AnishNavada/static/media/AnishNavada.454a3662.jpg",
     "static/media/style.css": "/AnishNavada/static/media/diamond.b28ba267.png",
-    "static/media/player-compare.png": "/AnishNavada/static/media/player-compare.111eb9e6.png"
+    "static/media/player-compare.png": "/AnishNavada/static/media/player-compare.111eb9e6.png",
+    "static/media/quantum.jpg": "/AnishNavada/static/media/quantum.36cdc5f8.jpg"
   }
 }
