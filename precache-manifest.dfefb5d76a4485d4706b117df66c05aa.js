@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "883d728e29ff96b6bd0b9e26f2d9119d",
+    "revision": "14c73b43e5a92d71567dc7f5dc9b69b9",
     "url": "/AnishNavada/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AnishNavada/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "a5af33ddbb0ffdaf8023",
-    "url": "/AnishNavada/static/css/main.1f6daf19.chunk.css"
+    "revision": "fcd30b17bdd63c9a82c5",
+    "url": "/AnishNavada/static/css/main.ed44fe09.chunk.css"
   },
   {
     "revision": "622bf52bceb3df4f3921",
     "url": "/AnishNavada/static/js/2.6a78d592.chunk.js"
   },
   {
-    "revision": "a5af33ddbb0ffdaf8023",
-    "url": "/AnishNavada/static/js/main.eef06cda.chunk.js"
+    "revision": "fcd30b17bdd63c9a82c5",
+    "url": "/AnishNavada/static/js/main.867f9b2f.chunk.js"
   },
   {
     "revision": "5fa002083ce62daf6f28",
