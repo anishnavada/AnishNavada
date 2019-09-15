@@ -1,14 +1,157 @@
-.navbar{
-	background-color: #3E6DB1;
+@media only screen and (max-width: 600px) {
+	.about-me{
+		display: none !important;
+	}
+}
+
+.my-image{
+	border-radius: 50%;
+	height: 400px;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+
+.educTitle{
+	margin-bottom: 0px !important;
+}
+
+.educGPA{
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	font-size: 12px !important;
+}
+
+.eduText{
 	
 }
 
-.navbar-center{
-	position: absolute;
-    left: 50%;
-    transform: translatex(-50%);
+.education{
+	height: 40%;
+	
 }
 
-.nav-item{
-	margin-left: 40px;
+.educ{
+	height: 100%;
+}
+
+.education-image{
+	height: 100%;
+}
+
+.about-me{
+	display: inline-block;
+
+}
+
+.about-me p{
+	margin-top: 0;
+    margin-bottom: 1rem;
+	font-size: 18px;
+	font-family: Helvetica;
+}
+
+.home-div{
+	text-align: center;
+}
+
+.about-text-one{
+    animation: fadein 2s;
+    -moz-animation: fadein 2s; /* Firefox */
+    -webkit-animation: fadein 2s; /* Safari and Chrome */
+    -o-animation: fadein 2s; /* Opera */
+}
+
+.about-text-two{
+	 animation: fadein 4s;
+    -moz-animation: fadein 4s; /* Firefox */
+    -webkit-animation: fadein 4s; /* Safari and Chrome */
+    -o-animation: fadein 4s; /* Opera */
+}
+
+.about-text-three{
+	 animation: fadein 6s;
+    -moz-animation: fadein 6s; /* Firefox */
+    -webkit-animation: fadein 6s; /* Safari and Chrome */
+    -o-animation: fadein 6s; /* Opera */
+}
+
+.about-text-four{
+	 animation: fadein 8s;
+    -moz-animation: fadein 8s; /* Firefox */
+    -webkit-animation: fadein 8s; /* Safari and Chrome */
+    -o-animation: fadein 8s; /* Opera */
+}
+
+.project-title{
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+.project-desc{
+	flex: 100% !important;
+	max-width: 100% !important;
+}
+
+.project{
+	width: 55rem;
+	margin: 50px auto;
+}
+
+.project-row{
+	display: flex;
+	overflow-x: auto;
+}
+
+.project-name{
+	font-weight: bold;
+	font-size: 14px;
+	margin-top:10px !important;	
+}
+
+.modal-content{
+	background-color: #f2efde !important;
+}
+
+.project-image{
+	height:300px;
+	width: 100%;
+}
+
+.section-title{
+	font-size: 30px;
+	text-align: center;
+}
+
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-moz-keyframes fadein { /* Firefox */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-webkit-keyframes fadein { /* Safari and Chrome */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-o-keyframes fadein { /* Opera */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity: 1;
+    }
 }

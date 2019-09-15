@@ -5,7 +5,9 @@ import '../Styles.css';
 class Home extends React.Component{
 	render(){
 		return (
-			<h1> HOME </h1>
+			<div className="home-body">
+				<img className="my-image" src={require('../images/AnishNavada.jpg')}></img>
+			</div>
 		)
 	}
 }
