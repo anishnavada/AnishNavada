@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/AnishNavada/static/css/main.646c02d8.chunk.css",
-    "main.js": "/AnishNavada/static/js/main.1bfb66ef.chunk.js",
-    "main.js.map": "/AnishNavada/static/js/main.1bfb66ef.chunk.js.map",
+    "main.css": "/AnishNavada/static/css/main.017105b7.chunk.css",
+    "main.js": "/AnishNavada/static/js/main.b8e67233.chunk.js",
+    "main.js.map": "/AnishNavada/static/js/main.b8e67233.chunk.js.map",
     "runtime~main.js": "/AnishNavada/static/js/runtime~main.7ab74df3.js",
     "runtime~main.js.map": "/AnishNavada/static/js/runtime~main.7ab74df3.js.map",
     "static/css/2.22a7d4ef.chunk.css": "/AnishNavada/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.3412d025.chunk.js": "/AnishNavada/static/js/2.3412d025.chunk.js",
-    "static/js/2.3412d025.chunk.js.map": "/AnishNavada/static/js/2.3412d025.chunk.js.map",
+    "static/js/2.e811fc3a.chunk.js": "/AnishNavada/static/js/2.e811fc3a.chunk.js",
+    "static/js/2.e811fc3a.chunk.js.map": "/AnishNavada/static/js/2.e811fc3a.chunk.js.map",
     "index.html": "/AnishNavada/index.html",
-    "precache-manifest.4a9047a894926070844913e034f97f49.js": "/AnishNavada/precache-manifest.4a9047a894926070844913e034f97f49.js",
+    "precache-manifest.173a1cb6274c9d5406f5e8b7cd6cea96.js": "/AnishNavada/precache-manifest.173a1cb6274c9d5406f5e8b7cd6cea96.js",
     "service-worker.js": "/AnishNavada/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/AnishNavada/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.646c02d8.chunk.css.map": "/AnishNavada/static/css/main.646c02d8.chunk.css.map",
+    "static/css/main.017105b7.chunk.css.map": "/AnishNavada/static/css/main.017105b7.chunk.css.map",
     "static/media/AnishNavada.jpg": "/AnishNavada/static/media/AnishNavada.454a3662.jpg",
     "static/media/BronxScience.jpg": "/AnishNavada/static/media/BronxScience.70e3dacb.jpg",
     "static/media/Cornell.jpg": "/AnishNavada/static/media/Cornell.b51c1bcb.jpg",
@@ -20,6 +20,7 @@
     "static/media/NYSCI.jpg": "/AnishNavada/static/media/NYSCI.4aebdcbb.jpg",
     "static/media/SACSS.png": "/AnishNavada/static/media/SACSS.1b69f447.png",
     "static/media/style.css": "/AnishNavada/static/media/diamond.b28ba267.png",
+    "static/media/music-recommendation.jpg": "/AnishNavada/static/media/music-recommendation.49f5cdab.jpg",
     "static/media/player-compare.png": "/AnishNavada/static/media/player-compare.111eb9e6.png",
     "static/media/quantum.jpg": "/AnishNavada/static/media/quantum.36cdc5f8.jpg"
   }
